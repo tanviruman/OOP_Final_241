@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/233solve/233solve.iml" filepath="$PROJECT_DIR$/233solve/233solve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AWT- 01/AWT- 01.iml" filepath="$PROJECT_DIR$/AWT- 01/AWT- 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimalGoatSheep/AnimalGoatSheep.iml" filepath="$PROJECT_DIR$/AnimalGoatSheep/AnimalGoatSheep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIprac/GUIprac.iml" filepath="$PROJECT_DIR$/GUIprac/GUIprac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP Final.iml" filepath="$PROJECT_DIR$/.idea/OOP Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PizzaShop/PizzaShop.iml" filepath="$PROJECT_DIR$/PizzaShop/PizzaShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction-1/abstraction-1.iml" filepath="$PROJECT_DIR$/abstraction-1/abstraction-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction-2/abstraction-2.iml" filepath="$PROJECT_DIR$/abstraction-2/abstraction-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-1/exception-1.iml" filepath="$PROJECT_DIR$/exception-1/exception-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-1/interface-1.iml" filepath="$PROJECT_DIR$/interface-1/interface-1.iml" />
+    </modules>
+  </component>
+</project>
